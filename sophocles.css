@@ -55,3 +55,11 @@ td{
 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
+
+h5:hover {
+    text-shadow: 2px 2px 15px rgb(228, 110, 236);
+    border: 2px solid rgb(212, 176, 235);
+    padding: 5px;
+    filter: blur(1px);
+    border-radius: 5px;
+}
